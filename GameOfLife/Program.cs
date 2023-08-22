@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Numerics;
 
-namespace HelloWorld
+namespace GameOfLife
 {
     static class Program
     {
